@@ -1,4 +1,4 @@
-package hash;
+package algo.hash;
 
 public class HashLearn {
 
