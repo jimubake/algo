@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithms.iml" filepath="$PROJECT_DIR$/algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../okc/okc.iml" filepath="$PROJECT_DIR$/../okc/okc.iml" />
     </modules>
   </component>
 </project>
